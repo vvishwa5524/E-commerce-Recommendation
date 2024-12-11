@@ -55,7 +55,7 @@ The main applications in the project are:
 
 ## ER Diagram
 
-![Diagram](https://github.com/vvishwa5524/E-commerce-Recommendation-App/blob/main/ER_diagram.png)
+![Diagram](https://github.com/vvishwa5524/E-commerce-Recommendation/blob/main/ER_diagram.png)
 
 
 
