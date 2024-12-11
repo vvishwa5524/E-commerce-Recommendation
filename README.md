@@ -9,7 +9,7 @@ The goal of this project is to build a recommendation engine for an e-commerce p
 
 ## Architecture
 
-![Diagram](https://github.com/beratturan/Real-Time-E-commerce-Recommendation-App/blob/main/Diagram.jpg)
+![Diagram](https://github.com/vvishwa5524/E-commerce-Recommendation/blob/main/Diagram.jpg)
 
 ## Technology Stack
 - Programming Languages: Python
@@ -55,7 +55,7 @@ The main applications in the project are:
 
 ## ER Diagram
 
-![Diagram](https://github.com/beratturan/Real-Time-E-commerce-Recommendation-App/blob/main/ER_diagram.png)
+![Diagram](https://github.com/vvishwa5524/E-commerce-Recommendation-App/blob/main/ER_diagram.png)
 
 
 
